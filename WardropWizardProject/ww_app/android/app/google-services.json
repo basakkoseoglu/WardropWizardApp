@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39469612156",
+    "project_id": "wardrobewizardapp-c0705",
+    "storage_bucket": "wardrobewizardapp-c0705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39469612156:android:aca185d459147d4f5b5df9",
+        "android_client_info": {
+          "package_name": "com.example.ww_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ja2e8Yki6e5KzVq4vOE-E2lAvqgHitA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
