@@ -20,6 +20,9 @@
       <td align="center">
         <img src="https://github.com/basakkoseoglu/WardropWizardApp/blob/main/images/trend.png?raw=true" width="300" alt="Trend Sayfası" style="margin: 5px;">
       </td>
+      <td align="center">
+        <img src="https://github.com/basakkoseoglu/WardropWizardApp/blob/main/images/bakim.png?raw=true)" width="300" alt="Trend Sayfası" style="margin: 5px;">
+      </td>
     </tr>
   </table>
 </div>
